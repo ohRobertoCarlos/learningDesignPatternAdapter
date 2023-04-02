@@ -1,0 +1,15 @@
+{
+    "name": "roberto-carlos/learning-desdign-pattern-adapter",
+    "autoload": {
+        "psr-4": {
+            "RobertoCarlos\\LearningDesdignPatternAdapter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Roberto Carlos",
+            "email": "robertocarlosdeveloper@gmail.com"
+        }
+    ],
+    "require": {}
+}
